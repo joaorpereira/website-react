@@ -15,17 +15,17 @@ export const homeObjOne = {
 }
 
 export const homeObjTwo = {
-    lightBg : false,
-    primary: true, 
-    imgStart: "", 
-    lightTopLine: true, 
-    lightText: true, 
-    lightTextDesc: true, 
+    lightBg : true,
+    primary: false, 
+    imgStart: "start", 
+    lightTopLine: false, 
+    lightText: false, 
+    lightTextDesc: false, 
     buttonLabel: "Get Started", 
     description: "We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.", 
     headline: "Lead Generation Specialist for Online Businesses", 
     topLine: "Marketing Agency",
-    start: "", 
+    start: "true", 
     img: require("../../images/profile.jpg"), 
     alt: "Image",
 }
@@ -49,7 +49,7 @@ export const homeObjThree = {
 export const homeObjFour = {
     lightBg : false,
     primary: true, 
-    imgStart: "", 
+    imgStart: "start", 
     lightTopLine: true, 
     lightText: true, 
     lightTextDesc: true, 
@@ -57,7 +57,7 @@ export const homeObjFour = {
     description: "We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.", 
     headline: "Lead Generation Specialist for Online Businesses", 
     topLine: "Marketing Agency",
-    start: "", 
+    start: "true", 
     img: require("../../images/svg-3.svg"), 
     alt: "Image",
 }
