@@ -2,7 +2,11 @@
 
 > This project was made using **React**, **HTML**, **CSS** and **JavaScript-Vanilla**. The objective was to learn how to validade a form, also I used hooks to deal with inputs.
 
-![](react-website.gif)
+### Site
+
+The website has been hosted at netlify: website-react.netlify.app
+
+![](website-react.gif)
 
 ## How to Run this Project
 
