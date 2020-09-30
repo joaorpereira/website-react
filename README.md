@@ -4,7 +4,7 @@
 
 ### Site
 
-The website has been hosted at netlify: website-react.netlify.app
+The website has been hosted at netlify: https://website-react.netlify.app/
 
 ![](website-react.gif)
 
@@ -20,7 +20,7 @@ The website has been hosted at netlify: website-react.netlify.app
 
 ## Reference Material
 
-- <a href="https://www.youtube.com/watch?v=iP_HqoCuRI0&t=77s&ab_channel=BrianDesign" target="_blank">React WebSite Tutorial - Brian Design</a>
+- <a href="https://www.youtube.com/watch?v=iP_HqoCuRI0&t=79s" target="_blank">React WebSite Tutorial - Brian Design</a>
 
 ## License
 
