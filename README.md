@@ -1,6 +1,6 @@
 # Website Site - React
 
-> This project was made using **React**, **HTML**, **CSS** and **JavaScript-Vanilla**. The objective was to learn how to validade a form, also I used hooks to deal with inputs.
+> This project was made using **React**, **HTML**, **CSS** and **JavaScript-Vanilla**. The objective was to learn how to validate a form, also I used hooks to deal with inputs.
 
 ### Site
 
